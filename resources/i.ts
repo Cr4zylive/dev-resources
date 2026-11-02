@@ -312,18 +312,10 @@ export const resources: Resource[] = [
     {
         name: 'IPKit',
         description:
-            'Free IP lookup with location, ASN/ISP and VPN/proxy/Tor signals, plus the caller\'s own IP, as JSON. No API key for basic use.',
+            "Free IP lookup with location, ASN/ISP and VPN/proxy/Tor signals, plus the caller\\'s own IP, as JSON. No API key for basic use.",
         categories: ['Tooling', 'Security', 'API Building'],
         url: 'https://ipkit.dev',
-        keywords: [
-            'ip lookup',
-            'ip geolocation',
-            'asn',
-            'vpn detection',
-            'proxy detection',
-            'tor',
-            'json api',
-        ],
+        keywords: ['ip lookup', 'ip geolocation', 'asn', 'vpn detection', 'proxy detection', 'tor', 'json api'],
     },
     {
         name: 'IPWho IP Geolocation API',
